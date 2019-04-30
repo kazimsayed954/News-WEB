@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.Tech_empire.news"
+        versionCode = "1" 
+        version     = "1.0.0" >
+ 
+    <!-- versionCode is Android only -->
+    <!-- version is in major.minor.patch format --> 
+    <name>News  App</name>
+ 
+    <description>
+        An example for phonegap build app which wont show up in the playstore. 
+    </description>
+ 
+    <author href="https://YourWebsite.com" email="yourEmail@goesHere.com">
+        Name Of The Author
+    </author>
+ 
+</widget>
